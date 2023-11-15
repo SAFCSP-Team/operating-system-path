@@ -5,7 +5,6 @@
 This path will cover the **operating system** and their components and how high level language interact with it.
 
 > This path is divided into resource stack that will cover the mian concepts related to the path itself,
->
 > and project stack which helps validate your understanding of these concepts.
 
 ## Objectives
