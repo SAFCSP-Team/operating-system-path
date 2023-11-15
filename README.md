@@ -2,7 +2,7 @@
 
 ## Operating System Path Introducation
 
-This path will cover the **operating system** and their components and how high level language interact with it.
+This path will cover the **operating system** concepts and its components to implement it in the software development.
 
 > This path is divided into resource stack that will cover the mian concepts related to the path itself,
 > and project stack which helps validate your understanding of these concepts.
