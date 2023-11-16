@@ -21,10 +21,10 @@ By the end of this path you will be able to:
 ### Table of Content
 
 
-| Project ID  | Project Title                                                                         | Deadline |
-| ----------- | ------------------------------------------------------------------------------------- | -------- |
-| OSProject01 | [Introduction to Operating System](https://github.com/malekcoders/Introduction-to-OS) |          |
-|             |                                                                                       |          |
+| Project ID  | Project Title                                                                         | Deadline   |
+| ----------- | ------------------------------------------------------------------------------------- | ---------- |
+| OSProject01 | [Introduction to Operating System](https://github.com/malekcoders/Introduction-to-OS) | 23/11/2023 |
+| OSProject02 | [File Handling ](https://github.com/malekcoders/File-Handling/tree/main)             | 28/11/2023 |
 
 ### Submitting Process
 
