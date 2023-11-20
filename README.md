@@ -1,6 +1,6 @@
 # Operating System Path
 
-## Operating System Path Introducation
+## Introducation
 
 This path will cover the **operating system** concepts and its components to implement it in the software development.
 
@@ -42,7 +42,7 @@ By the end of this path you will be able to:
 | Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
 | OSResource01 | [Documentation of Introduction to Operating System](https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems#:~:text=of%20Operating%20system-,Introduction%20to%20Operating%20System,a%20convenient%20and%20efficient%20manner) | Course | [#1](https://github.com/malekcoders/operating-system/issues/1) | 1/12/2023 |
-|              |                                                                                                                                                                                                                                                                                                                                    |        |                                                                |           |
+| OSResource02 | [Introduction to Operating System](https://github.com/malekcoders/operating-system/issues/2)                                                                                                                                                                                                                                       | Course | [#2](https://github.com/malekcoders/operating-system/issues/2) | 1/12/2023 |
 
 ### Submitting Process
 
