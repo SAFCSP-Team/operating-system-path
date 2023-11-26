@@ -11,20 +11,20 @@ This path will cover the **operating system** concepts and its components to imp
 
 By the end of this path you will be able to:
 
-* Understand the conecpet of **operating system**.
-* Understand the kernel.
-* Understand Linux.
-* Use operating system components.
+* Understand the conecpet of operating system.
+* Understand Input/Output and File Management.
+* Understand Memory Management.
+* Understand Process Management.
 
 ## Project Stack
 
 ### Table of Content
 
 
-| Project ID  | Project Title                                                                         | Deadline   |
-| ----------- | ------------------------------------------------------------------------------------- | ---------- |
-| OSProject01 | [Introduction to Operating System](https://github.com/malekcoders/Introduction-to-OS) | 23/11/2023 |
-| OSProject02 | [File Handling ](https://github.com/malekcoders/File-Handling/tree/main)             | 28/11/2023 |
+| Project ID  | Project Title | Deadline   |
+| ----------- | --------------------------- | ---------- |
+| OSProject01 | [Introduction to Operating System](https://github.com/malekcoders/Introduction-to-OS) | 29 NOV |
+| OSProject02 | [File Handling ](https://github.com/malekcoders/File-Handling/tree/main)             | 1 DEC |
 
 ### Submitting Process
 
@@ -38,11 +38,10 @@ By the end of this path you will be able to:
 
 ### Table of Content
 
-
-| Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| OSResource01 | [Documentation of Introduction to Operating System](https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems#:~:text=of%20Operating%20system-,Introduction%20to%20Operating%20System,a%20convenient%20and%20efficient%20manner) | Course | [#1](https://github.com/malekcoders/operating-system/issues/1) | 1/12/2023 |
-| OSResource02 | [Introduction to Operating System](https://github.com/malekcoders/operating-system/issues/2)                                                                                                                                                                                                                                       | Course | [#2](https://github.com/malekcoders/operating-system/issues/2) | 1/12/2023 |
+| Resource ID  | Resource Title  | Type   | Issue ID| Deadline  |
+| ------------ | --------------------------- | ------ | ------------ | --------- |
+| OSResource01 | [Documentation of Introduction to Operating System](https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems#:~:text=of%20Operating%20system-,Introduction%20to%20Operating%20System,a%20convenient%20and%20efficient%20manner) | Course | [#1](https://github.com/malekcoders/operating-system/issues/1) | 3 DEC |
+| OSResource02 | [Introduction to Operating System](https://github.com/malekcoders/operating-system/issues/2) | Course | [#2](https://github.com/malekcoders/operating-system/issues/2) | 3 DEC |
 
 ### Submitting Process
 
