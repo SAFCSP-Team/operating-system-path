@@ -11,7 +11,7 @@ This path will cover the **operating system** concepts and its components to imp
 
 By the end of this path you will be able to:
 
-* Understand the conecpet of operating system.
+* Understand the concept of operating system.
 * Understand Input/Output and File Management.
 * Understand Memory Management.
 * Understand Process Management.
