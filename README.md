@@ -23,8 +23,8 @@ By the end of this path you will be able to:
 
 | Project ID  | Project Title | Deadline   |
 | ----------- | --------------------------- | ---------- |
-| OSProject01 | [Introduction to Operating System](https://github.com/malekcoders/Introduction-to-OS) | 29 NOV |
-| OSProject02 | [File Handling ](https://github.com/malekcoders/File-Handling/tree/main)             | 1 DEC |
+| OSProject01 | [Operating System Details](https://github.com/SAFCSP-Team/OS-Info) | 29 NOV |
+| OSProject02 | [File Information](https://github.com/SAFCSP-Team/get-file-info)             | 1 DEC |
 
 ### Submitting Process
 
