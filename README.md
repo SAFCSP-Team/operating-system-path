@@ -24,7 +24,7 @@ By the end of this path you will be able to:
 | Project ID  | Project Title | Deadline   |
 | ----------- | --------------------------- | ---------- |
 | OSProject01 | [Operating System Details](https://github.com/SAFCSP-Team/OS-Info) | 29 NOV |
-| OSProject02 | [File Information](https://github.com/SAFCSP-Team/get-file-info)             | 1 DEC |
+| OSProject02 | [File System](https://github.com/SAFCSP-Team/get-file-info)             | 1 DEC |
 
 ### Submitting Process
 
