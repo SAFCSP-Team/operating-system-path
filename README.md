@@ -7,7 +7,7 @@ This path will cover the **operating system** concepts and its components to imp
 > This path is divided into resource stack that will cover the main concepts related to the path itself,
 > and project stack which helps validate your understanding of these concepts.
 
-## Objectives
+## Objective
 
 By the end of this path you will be able to:
 
