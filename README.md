@@ -23,7 +23,7 @@ By the end of this path you will be able to:
 
 | Project ID  | Project Title | Deadline   |
 | ----------- | --------------------------- | ---------- |
-| OSProject01 | [Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 2 NOV |
+| OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 2 NOV |
 | OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 3 DEC |
 
 ### Submitting Process
