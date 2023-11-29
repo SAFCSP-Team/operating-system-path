@@ -2,7 +2,7 @@
 
 ## Introducation
 
-This path will cover the **operating system** concepts and its components to implement it in software development.
+This path will cover the **operating system** concepts and their components to implement in software development.
 
 > This path is divided into a resource stack that will cover the main concepts related to the path itself,
 > and project stack which helps validate your understanding of these concepts.
@@ -23,7 +23,7 @@ By the end of this path you will be able to:
 
 | Project ID  | Project Title | Deadline   |
 | ----------- | --------------------------- | ---------- |
-| OSProject01 | [Operating System Details](https://github.com/SAFCSP-Team/OS-Info) | 2 NOV |
+| OSProject01 | [Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 2 NOV |
 | OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 3 DEC |
 
 ### Submitting Process
