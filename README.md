@@ -23,8 +23,8 @@ By the end of this path you will be able to:
 
 | Project ID  | Project Title | Deadline   |
 | ----------- | --------------------------- | ---------- |
-| OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 2 DEC |
-| OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 3 DEC |
+| OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 10 DEC 2023 |
+| OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 11 DEC 2023|
 
 ### Submitting Process
 
@@ -40,8 +40,8 @@ By the end of this path you will be able to:
 
 | Resource ID  | Resource Title  | Type   | Issue ID| Deadline  |
 | ------------ | --------------------------- | ------ | ------------ | --------- |
-| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | [#1](https://github.com/malekcoders/operating-system/issues/1) | 9 DEC |
-| OSResource02 | [Introduction to Operating System](https://github.com/malekcoders/operating-system/issues/2) | Course | [#2](https://www.youtube.com/watch?v=dOiA2nNJpc0&list=LL&index=2) | 9 DEC |
+| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | [#1](https://github.com/malekcoders/operating-system/issues/1) | 28 DEC 2023 |
+| OSResource02 | [Introduction to Operating System](https://github.com/malekcoders/operating-system/issues/2) | Course | [#2](https://www.youtube.com/watch?v=dOiA2nNJpc0&list=LL&index=2) | 28 DEC 2023 |
 
 ### Submitting Process
 
