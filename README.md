@@ -42,7 +42,7 @@ By the end of this path you will be able to:
 | ------------ | --------------------------- | ------ | ------------ | --------- |
 | OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | [#1](https://github.com/SAFCSP-Team/operating-system-path/issues/1) | 28 DEC 2023 |
 | OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course | [#2](https://www.youtube.com/watch?v=dOiA2nNJpc0&list=LL&index=2) | 28 DEC 2023 |
-|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course| | 28 DEC 2023
+|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course| https://github.com/SAFCSP-Team/operating-system-path/issues/4 | 28 DEC 2023
 
 ### Submitting Process
 
