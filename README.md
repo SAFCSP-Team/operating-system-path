@@ -25,7 +25,7 @@ By the end of this path you will be able to:
 | ----------- | --------------------------- | ---------- |
 | OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 10 DEC 2023 |
 | OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 11 DEC 2023|
-
+|OSProject03 | [Read a text file](https://github.com/SAFCSP-Team/read-text-file) | 13 DEC 2023|
 ### Submitting Process
 
 * Fork the project repository.
