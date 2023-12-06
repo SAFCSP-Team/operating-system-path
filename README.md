@@ -5,7 +5,7 @@
 This path will cover the **operating system** concepts and their components to implement in software development.
 
 
-## Objective
+## Objectives
 
 By the end of this path you will be able to:
 
